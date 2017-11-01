@@ -21,6 +21,10 @@ namespace TestProje
         {
 
 
+            Console.WriteLine("Hello World");
+
+
+
 
         }
     }
