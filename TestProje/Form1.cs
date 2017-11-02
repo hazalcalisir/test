@@ -27,6 +27,7 @@ namespace TestProje
 
             Console.WriteLine("askıtoyudelıettın");
 
+            Console.WriteLine("ananı");
 
 
 
