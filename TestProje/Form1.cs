@@ -22,6 +22,7 @@ namespace TestProje
 
 
             Console.WriteLine("Kerim");
+            Console.WriteLine("Kerim");
 
 
 
