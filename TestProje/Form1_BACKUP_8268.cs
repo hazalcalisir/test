@@ -21,7 +21,12 @@ namespace TestProje
         {
 
 
+<<<<<<< HEAD
+            Console.WriteLine("Kerim");
+            Console.WriteLine("Kerim");
+=======
             Console.WriteLine("hazal");
+>>>>>>> 303c8802248a9b8733174ea4eef433c20c876ded
 
 
 

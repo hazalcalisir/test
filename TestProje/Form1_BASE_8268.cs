@@ -21,7 +21,7 @@ namespace TestProje
         {
 
 
-            Console.WriteLine("hazal");
+            Console.WriteLine("Kerim");
 
 
 
