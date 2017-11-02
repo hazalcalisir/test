@@ -22,7 +22,7 @@ namespace TestProje
 
 
             Console.WriteLine("hazal");
-            Console.WriteLine("hazal");
+            Console.WriteLine("kerim");
             Console.WriteLine("hazal");
 
 
